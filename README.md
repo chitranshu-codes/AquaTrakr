@@ -1,14 +1,14 @@
-AquaTrakr
+# 🌊 **AquaTrakr**
 
 AquaTrakr is an innovative web and mobile application designed to help users track, analyze, and reduce their water footprint. By combining a user-friendly interface with machine learning capabilities, AquaTrakr empowers individuals to adopt sustainable water usage practices.
 
-Features
+## 🚀 **Features**
 
-Log daily water usage activities, including showering, gardening, dishwashing, and more.
-View detailed water usage statistics (total, weekly, and monthly).
-Gain personalized insights and tips to reduce water consumption using machine learning.
-Modern water-themed UI with a responsive design.
-Logs are stored locally for easy access and persistence.
+- **User Authentication**: Secure login system with token-based authentication.
+- **Water Usage Tracking**: Log activities like showering, gardening, laundry, and more.
+- **Analytics Dashboard**: Get insights into your water consumption habits.
+- **Personalized Tips**: Practical suggestions to help you save water.
+- **Machine Learning Integration**: Analyze usage trends and forecast water needs.
 
 Technologies Used
 
