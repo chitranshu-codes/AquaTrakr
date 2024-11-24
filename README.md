@@ -10,39 +10,39 @@ AquaTrakr is an innovative web and mobile application designed to help users tra
 - **Personalized Tips**: Practical suggestions to help you save water.
 - **Machine Learning Integration**: Analyze usage trends and forecast water needs.
 
-Technologies Used
+## 🛠️ **Tech Stack**
 
-Frontend
+### **Frontend**
+- React.js
+- CSS for styling
+  
+### **Backend**
 
-React: For building the user interface.
-CSS: For styling the application.
+-Flask: For handling API requests and serving the machine learning model.
+-Python: For data processing and analysis.
 
-Backend
+### **Machine Learning**
+-Linear Regression: To predict water usage trends based on user inputs.
+-Scikit-learn: For training and testing the ML model.
 
-Flask: For handling API requests and serving the machine learning model.
-Python: For data processing and analysis.
-Machine Learning
-Linear Regression: To predict water usage trends based on user inputs.
-Scikit-learn: For training and testing the ML model.
+## **Using AquaTrakr**
 
-Using AquaTrakr
+### **Add Water Logs:**
+-Select an activity (e.g., Showering, Dishwashing).
+-Input the required details (e.g., duration or frequency).
+-Add the log to view its impact on your water usage.
 
-Add Water Logs:
-Select an activity (e.g., Showering, Dishwashing).
-Input the required details (e.g., duration or frequency).
-Add the log to view its impact on your water usage.
+### **View Insights:**
+-Access the dashboard to see your total and weekly water usage.
+-Click Get Insights for personalized tips on reducing water consumption.
 
-View Insights:
-Access the dashboard to see your total and weekly water usage.
-Click Get Insights for personalized tips on reducing water consumption.
+### **Track Progress:**
+-Monitor your logs and delete or clear them as needed.
 
-Track Progress:
-Monitor your logs and delete or clear them as needed.
-
-Machine Learning Model
+## **Machine Learning Model**
 
 The ML model predicts water usage trends and provides tips based on historical user data.
 
-Input: Activity type, time spent, or frequency.
-Output: Estimated water usage and suggestions for conservation.
-The model uses simulated data and user inputs to improve predictions.
+-Input: Activity type, time spent, or frequency.
+-Output: Estimated water usage and suggestions for conservation.
+-The model uses simulated data and user inputs to improve predictions.
